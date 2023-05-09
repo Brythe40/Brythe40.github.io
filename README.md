@@ -1,2 +1,2 @@
-# Brythe40.github.io
-A website to display my LSU CSC 2463 final project.
+#Bot Fighter
+##This page servers as documentation for Bryce Olivier's final project for LSU CSC 2463, Bot Fighter.
