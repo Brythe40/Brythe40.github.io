@@ -9,4 +9,4 @@ This project is a culmination of programming art and sound while incorporating p
 ![Image of Arduino controller](https://github.com/Brythe40/Brythe40.github.io/blob/main/assets/Arduino.jpg)
 
 
-![Image of original sketch](https://github.com/Brythe40/Brythe40.github.io/blob/main/assets/first sketch.png)
+![Image of original sketch](https://github.com/Brythe40/Brythe40.github.io/blob/main/assets/first%20sketch.png)
