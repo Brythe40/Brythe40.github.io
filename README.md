@@ -20,4 +20,4 @@ While my early goal for this project was to make a fighter game, the project too
 
 The game turned out to be a great success. Before starting this project, the scope of what I was aiming to do seemed overwhelming. However, once I began developement, it turned out to be quite easy. While there are things that I wish I had time to fix, such as player hitboxes and animation canceling, I am proud of how it turned out. This project has opened the door for future projects as well as a deeper dive on this one in the future. Below is a video of the final product. (the full video can be found here: https://youtu.be/nqqEKcxeS_Q)
 
-[a link](https://youtu.be/nqqEKcxeS_Q)
+[Final Game](https://youtu.be/nqqEKcxeS_Q)
