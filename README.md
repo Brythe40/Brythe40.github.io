@@ -5,8 +5,14 @@ This project is a culmination of programming art and sound while incorporating p
 
 ![Image of game being played](https://github.com/Brythe40/Brythe40.github.io/blob/main/assets/game.PNG)
 
+Description of Controls...
 
 ![Image of Arduino controller](https://github.com/Brythe40/Brythe40.github.io/blob/main/assets/Arduino.jpg)
 
 
+Early goals...
+
 ![Image of original sketch](https://github.com/Brythe40/Brythe40.github.io/blob/main/assets/first%20sketch.PNG)
+
+
+How the game turned out...
